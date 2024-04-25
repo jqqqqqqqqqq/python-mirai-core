@@ -30,7 +30,7 @@ setup(
     keywords=["oicq qq qqbot", ],
     install_requires=[
         "aiohttp",
-        "pydantic==1.7.4"
+        "pydantic==1.10.13"
     ],
     long_description=long_description,
     long_description_content_type="text/markdown",
